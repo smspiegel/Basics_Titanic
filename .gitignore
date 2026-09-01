@@ -8,3 +8,6 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Data files no longer need to be updated
+*.csv
